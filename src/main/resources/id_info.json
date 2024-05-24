@@ -1,0 +1,16 @@
+{
+  "category_id": 10,
+  "faculty_id": 16,
+  "group_id": 9,
+  "discipline_id": 52,
+  "event_type_id": 4,
+  "control_form_id": 3,
+  "department_id": 40,
+  "student_id": 147,
+  "teacher_id": 87,
+  "exam_id": 20,
+  "thesis_id": 20,
+  "dissertation_id": 75,
+  "discipline_and_event_type_id": 30,
+  "discipline_and_control_form_id": 21
+}
